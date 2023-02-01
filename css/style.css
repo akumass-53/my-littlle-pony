@@ -505,6 +505,7 @@ img{
 .search-form__info{
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 153px;
 }
 
 .search-form__field{
